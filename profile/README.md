@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" width="400">
+<img src="logo.png" width="400">
 Hiroki OS: Sınırların Ötesine Geç
 "Yapay zeka ile olasılıkları yeniden tanımlıyoruz."
 
@@ -27,6 +27,5 @@ Eğer sen de "benim için sınır yok" diyorsan, aramıza katılabilir ve projel
 Unutma; yapay zeka sadece bir araçtır, sınırları çizen ise sensin.
 
 Hiroki OS - Geleceği bugün kodluyoruz.
-
 
 </div>
