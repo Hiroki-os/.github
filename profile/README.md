@@ -3,31 +3,25 @@
 <img src="logo.svg" width="100">
 
 
-Hiroki OS: Sınırların Ötesine Geç
-"Yapay zeka ile olasılıkları yeniden tanımlıyoruz."
+Hiroki OS: Sınırların Ötesinde, Yapay Zekanın Gücüyle.
 
-🚀 Biz Kimiz?
-Hiroki OS, her yaştan insanın yapay zekayı kullanarak neler başarabileceğini kanıtlamaya adanmış bir oluşumdur. Bizce yaratıcılığın ve teknolojinin birleştiği noktada yaş bir sayıdan ibarettir.
+Biz Kimiz?
+Hiroki OS, yapay zekanın sadece bir araç değil, bir yaşam biçimi olduğuna inanan bir oluşumdur. Biz, yaşın veya deneyimin önemsiz olduğu; sadece vizyonun ve merakın rehberlik ettiği bir gelecek inşa ediyoruz. "Sınır yoktur" diyen herkesin buluşma noktasıyız.
 
-🎯 Misyonumuz
-Sınırları Yıkmak: Teknolojinin sadece belli bir kesime ait olmadığını, herkes için bir "işletim sistemi" gibi ulaşılabilir olduğunu göstermek.
+Vizyonumuz
+Dünyada teknoloji denince akla gelen karmaşık yapıların aksine, biz her yaştan insanın bu devrime ortak olabileceğini kanıtlamak için buradayız. Hiroki OS çatısı altında, imkansızın sadece biraz daha fazla zaman gerektirdiğine inanıyor ve her satır kodla sınırları biraz daha zorluyoruz.
 
-Keşfetmek: AI araçlarını kullanarak imkansız görüneni mümkün kılmak.
+Neler Hedefliyoruz?
 
-Öğrenmek: Her gün yeni bir kodla, yeni bir fikirle sınırları biraz daha zorlamak.
+Erişilebilirlik: Karmaşık yapay zeka teknolojilerini basitleştirerek herkes için anlaşılır kılmak.
 
-🛠️ Neler Yapıyoruz?
-[Proje 1 Ekle]
+Sınırsız Öğrenme: Merak eden, sorgulayan ve "ben de yapabilirim" diyen herkes için bir kaynak merkezi olmak.
 
-[Proje 2 Ekle]
+Geleceği İnşa Etmek: Teoriden pratiğe geçişte, hayal gücünü yapay zekanın hızıyla birleştirmek.
 
-[Katkıda Bulunmak İstersen...]
+Neden Hiroki OS?
+Çünkü biz biliyoruz ki; bir şeyi yapmanın en iyi yolu ona başlamaktır. Hiroki OS, sadece bir proje değil, aynı zamanda düşünce yapımızın bir yansımasıdır. Biz burada sadece kod yazmıyor, aynı zamanda sınırların zihnimizde olduğunu kanıtlıyoruz.
 
-💬 Bize Katıl
-Eğer sen de "benim için sınır yok" diyorsan, aramıza katılabilir ve projelerimize göz atabilirsin.
-
-Unutma; yapay zeka sadece bir araçtır, sınırları çizen ise sensin.
-
-Hiroki OS - Geleceği bugün kodluyoruz.
+Zeka sınır tanımaz, Hiroki OS ile sen de tanıma.
 
 </div>
