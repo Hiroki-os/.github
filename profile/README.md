@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="logo.png" width="400">
+
+
 Hiroki OS: Sınırların Ötesine Geç
 "Yapay zeka ile olasılıkları yeniden tanımlıyoruz."
 
